@@ -18,7 +18,7 @@ table 50100 "Sales Order"
     {
         key(PK; "SalesID")
         {
-            Clustered = false;
+            Clustered = true;
         }
     }
 }
