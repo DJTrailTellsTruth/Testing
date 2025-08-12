@@ -21,4 +21,5 @@ table 50100 "Sales Order"
             Clustered = true;
         }
     }
+//Final Test
 }
