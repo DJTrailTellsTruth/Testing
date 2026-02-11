@@ -20,3 +20,6 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+/.vs/Testing/v17
+/.vs
+/FOCode/Projects/VL_0602GitTest/.vs/VL_0602GitTest/v17

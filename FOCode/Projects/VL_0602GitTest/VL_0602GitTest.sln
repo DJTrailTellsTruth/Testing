@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "VL_0602GitTest (USR) [VL_GitDemo]", "VL_0602GitTest\VL_0602GitTest.rnrproj", "{160CA707-4C43-4AF6-AA7A-F56F3EBC8BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{160CA707-4C43-4AF6-AA7A-F56F3EBC8BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160CA707-4C43-4AF6-AA7A-F56F3EBC8BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {644C77EE-9E7D-425E-9430-5DA92A96F79A}
+	EndGlobalSection
+EndGlobal
